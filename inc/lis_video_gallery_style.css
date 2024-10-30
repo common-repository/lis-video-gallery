@@ -1,0 +1,74 @@
+
+.grid-gallery{
+
+}
+
+.grid-video{
+	position: relative;
+	margin: 10px 0;
+}
+
+.vc-grid-video img{
+
+	display: block;
+    width: 100%;
+
+}
+
+.grid-video-title{
+    margin-top: 5px;
+}
+
+#lvg_frame{
+	padding: 10px;
+}
+
+#lvg_frame h2{
+	text-align: center;
+}
+
+.load_more_video{
+    background: #000;
+    color: #FFF;
+    padding: 5px;
+    text-align: center;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    border-radius: 4px;
+    margin: 50px 0;
+    cursor: pointer;
+    display: block;
+    width: 100%;
+}
+
+a.play{
+    position: relative;
+    display: block;
+    box-shadow: none;
+}
+
+a.play:focus,
+a.play:hover{
+    box-shadow: none;
+}
+
+.play svg{
+	position: absolute;
+    fill: #fff;
+    fill-opacity: .5;
+}
+
+.play svg:hover{
+    fill-opacity: 1;
+}
+
+
+/*
+ * CBOX Fixes
+ */
+.cboxIframe,
+#cboxContent,
+#cboxTopCenter,
+#cboxBottomCenter{
+    max-width: 89vw;
+}

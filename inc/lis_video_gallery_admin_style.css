@@ -1,0 +1,25 @@
+
+.lis_video_img.column-lis_video_img{
+    display: block;
+    position: relative;
+    min-height: 100px;
+    max-width: 120px;
+}
+
+.video_post_thumb{
+	max-height: 100px;
+	max-width: 150px;
+	margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    position: absolute;
+}
+
+.lis_video_shortcode textarea{
+    width: 100%;
+    height: 30px;
+    resize: none;
+    color: #000;
+}

@@ -1,0 +1,298 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lis Video Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-04-24 13:11+0000\n"
+"PO-Revision-Date: 2017-04-24 13:16+0000\n"
+"Last-Translator: root <k@lis.im>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: lis_lvg_plugin_basic.php:120
+msgid "Video Image"
+msgstr "Картинка Видео"
+
+#: lis_lvg_plugin_basic.php:121
+msgid "Video Shortcode"
+msgstr "Шорткод Видео"
+
+#: lis_lvg_vc_short.php:9 lis_lvg_vc_short.php:113 lis_lvg_vc_short.php:130
+msgid "Media"
+msgstr "Медиа"
+
+#: lis_lvg_vc_short.php:10 lis_lvg_vc_short.php:114 lis_lvg_vc_short.php:145
+#: lis_lvg_vc_short.php:159 lis_lvg_vc_short.php:172
+msgid "External"
+msgstr "Внешнее"
+
+#: lis_lvg_vc_short.php:109
+msgid "Source"
+msgstr "Источник"
+
+#: lis_lvg_vc_short.php:116
+msgid "Source for Video Shortcode"
+msgstr "Источник для Видео Шорткода"
+
+#: lis_lvg_vc_short.php:124
+msgid "Video"
+msgstr "Видео"
+
+#: lis_lvg_vc_short.php:126
+msgid "Video for output"
+msgstr "Видео для Вывода"
+
+#: lis_lvg_vc_short.php:140 lis_lvg_vc_short.php:142
+msgid "Video image"
+msgstr "Картинка видео"
+
+#: lis_lvg_vc_short.php:153 lis_lvg_vc_short.php:156
+msgid "Video Title"
+msgstr "Заголовок видео"
+
+#: lis_lvg_vc_short.php:179
+msgid "Custom CSS class"
+msgstr "Произвольный CSS класс"
+
+#: lis_lvg_vc_short.php:182
+msgid ""
+"This is custom option. You can leave it empty. Also, you can assign few "
+"classes separating them with space."
+msgstr ""
+"Эта опция необязательна. Это поле можно оставить пустым. Можно так же "
+"добавить несколько CSS Классов, разделяя их пробелами.\n"
+
+#. Name of the plugin
+msgid "Lis Video Gallery"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://lis.im/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lis"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:6
+msgctxt "post type general name"
+msgid "Video"
+msgstr "Видео"
+
+#: lis_lvg_plugin_basic.php:7
+msgctxt "post type singular name"
+msgid "Video"
+msgstr "Видео"
+
+#: lis_lvg_plugin_basic.php:8
+msgctxt "admin menu"
+msgid "Videos"
+msgstr "Видео"
+
+#: lis_lvg_plugin_basic.php:9
+msgctxt "add new on admin bar"
+msgid "Video"
+msgstr "Видео"
+
+#: lis_lvg_plugin_basic.php:10
+msgctxt "video"
+msgid "Add New"
+msgstr "Добавить новое"
+
+#: lis_lvg_plugin_basic.php:11
+msgid "Add New Video"
+msgstr "Добавить новое видео"
+
+#: lis_lvg_plugin_basic.php:12
+msgid "New Video"
+msgstr "Новое видео"
+
+#: lis_lvg_plugin_basic.php:13
+msgid "Edit Video"
+msgstr "Редактировать"
+
+#: lis_lvg_plugin_basic.php:14
+msgid "View Video"
+msgstr "Посмотреть"
+
+#: lis_lvg_plugin_basic.php:15
+msgid "All Videos"
+msgstr "Все видео"
+
+#: lis_lvg_plugin_basic.php:16
+msgid "Search Videos"
+msgstr "Поиск по видео"
+
+#: lis_lvg_plugin_basic.php:17
+msgid "Parent Video:"
+msgstr "Родительское видео:"
+
+#: lis_lvg_plugin_basic.php:18
+msgid "No videos found."
+msgstr "Не найдено видео."
+
+#: lis_lvg_plugin_basic.php:19
+msgid "No videos found in Trash."
+msgstr "Не найдено видео среди удаленных."
+
+#: lis_lvg_plugin_basic.php:24
+msgid "Description."
+msgstr "Описание."
+
+#: lis_lvg_plugin_basic.php:46
+msgctxt "taxonomy general name"
+msgid "Video Gallery"
+msgstr "Видео галерея"
+
+#: lis_lvg_plugin_basic.php:47
+msgctxt "taxonomy singular name"
+msgid "Video Gallery"
+msgstr "Видео галлерея"
+
+#: lis_lvg_plugin_basic.php:48
+msgid "Search Video Galleries"
+msgstr "Искать среди видео галлерей"
+
+#: lis_lvg_plugin_basic.php:49
+msgid "All Video Galleries"
+msgstr "Все видео галлереи"
+
+#: lis_lvg_plugin_basic.php:50
+msgid "Parent Video Gallery"
+msgstr "Родительская видео галерея"
+
+#: lis_lvg_plugin_basic.php:51
+msgid "Parent Video Gallery:"
+msgstr "Родительская видео галерея"
+
+#: lis_lvg_plugin_basic.php:52
+msgid "Edit Video Gallery"
+msgstr "Редактировать видео галерею"
+
+#: lis_lvg_plugin_basic.php:53
+msgid "Update Video Gallery"
+msgstr "Обновить видео галерею"
+
+#: lis_lvg_plugin_basic.php:54
+msgid "Add New Gallery"
+msgstr "Добавить новую видео галерею"
+
+#: lis_lvg_plugin_basic.php:55
+msgid "New Gallery Name"
+msgstr "Названию новой галереи"
+
+#: lis_lvg_plugin_basic.php:56
+msgid "Gallery"
+msgstr "Галерея"
+
+#: lis_lvg_plugin_basic.php:74 lis_lvg_vc_short.php:166
+#: lis_lvg_vc_short.php:169
+msgid "Video URL"
+msgstr "URL Видео"
+
+#: lis_lvg_plugin_basic.php:239
+msgid "Wrong URL"
+msgstr "Неправильный URL"
+
+#: lis_lvg_short.php:103 lis_lvg_short.php:126
+msgid "Load More"
+msgstr "Загрузить ещё"
+
+#: lis_lvg_short.php:125
+msgid "Loading"
+msgstr "Загрузка"
+
+#: lis_video_gallery.php:45
+msgid "Video Gallery Plugin Settings Page"
+msgstr "Страница настроек плагина"
+
+#: lis_video_gallery.php:54 lis_video_gallery.php:61
+msgid "Internal problems occured!"
+msgstr "Произошла внутренняя ошибка."
+
+#: lis_video_gallery.php:119
+msgid "Popup box:"
+msgstr "Popup библиотека:"
+
+#: lis_video_gallery.php:120
+msgid "Choose any option to set popup box method"
+msgstr "Выберите одну из опций для библиотеки popup"
+
+#: lis_video_gallery.php:126
+msgid "None"
+msgstr "Никакая"
+
+#: lis_video_gallery.php:135
+msgid "Load From:"
+msgstr "Загружать из:"
+
+#: lis_video_gallery.php:136
+msgid "Choose any option to set loading source of box script"
+msgstr "Выберите опцию для способа загрузки Popup библиотеки"
+
+#: lis_video_gallery.php:142
+msgid "Do not load"
+msgstr "Не загружать"
+
+#: lis_video_gallery.php:143
+msgid "Built in Plugin"
+msgstr "Встроенная в плагин"
+
+#: lis_video_gallery.php:150
+msgid "Save"
+msgstr "Сохранить"
+
+#: lis_video_gallery.php:158
+msgid "Usage"
+msgstr "Как использовать"
+
+#: lis_video_gallery.php:160
+msgid "Plugin already created new video type. It located below simple posts."
+msgstr ""
+"Плагин уже создал новый тип записей. Он расположен в меню ниже записей."
+
+#: lis_video_gallery.php:161
+msgid ""
+"Add titles and url to new video. No need in thumbnail. Plugin supports "
+"youtube and vimeo. Url for paste should be like:"
+msgstr ""
+"Добавьте заголовок и url видео. Нет необходимости загружать миниатюру. "
+"Плагин поддерживает youtube и vimeo. Вставляемый URL должен быть вида:"
+
+#: lis_video_gallery.php:164
+msgid "Plugin provides shortcode to output gallery in any page."
+msgstr "Для вставки галереи используется шорткод."
+
+#: lis_video_gallery.php:167
+msgid "Options"
+msgstr "Опции"
+
+#: lis_video_gallery.php:171
+msgid "default value. Enable ajax button."
+msgstr "стандартное значение. Включает ajax кнопку."
+
+#: lis_video_gallery.php:172
+msgid "disable ajax button."
+msgstr "выключить ajax кнопку."
+
+#: lis_video_gallery.php:176
+msgid "slug name of gallery."
+msgstr "ярлык-имя галереи."
+
+#: lis_video_gallery.php:180
+msgid "number of videos to display. Default is 12."
+msgstr "количество отображаемых видео. Стандартно 12."
+
+#. Description of the plugin
+msgid ""
+"Plugin provides easy way to make video gallery using videos hosted on "
+"YouTube or Vimeo."
+msgstr ""
+"Плагин позволяет легко создавать видео-галереи на основе видео находящиеся "
+"на YouTube и Vimeo"

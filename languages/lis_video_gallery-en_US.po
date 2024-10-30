@@ -1,0 +1,238 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Lis Video Gallery\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-04 13:41+0000\n"
+"PO-Revision-Date: 2017-02-04 13:41+0000\n"
+"Last-Translator: root <k@lis.im>\n"
+"Language-Team: English (United States)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: lis_lvg_plugin_basic.php:6
+msgctxt "post type general name"
+msgid "Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:7
+msgctxt "post type singular name"
+msgid "Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:8
+msgctxt "admin menu"
+msgid "Videos"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:9
+msgctxt "add new on admin bar"
+msgid "Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:10
+msgctxt "video"
+msgid "Add New"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:11
+msgid "Add New Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:12
+msgid "New Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:13
+msgid "Edit Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:14
+msgid "View Video"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:15
+msgid "All Videos"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:16
+msgid "Search Videos"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:17
+msgid "Parent Video:"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:18
+msgid "No videos found."
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:19
+msgid "No videos found in Trash."
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:24
+msgid "Description."
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:46
+msgctxt "taxonomy general name"
+msgid "Video Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:47
+msgctxt "taxonomy singular name"
+msgid "Video Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:48
+msgid "Search Video Galleries"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:49
+msgid "All Video Galleries"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:50
+msgid "Parent Video Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:51
+msgid "Parent Video Gallery:"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:52
+msgid "Edit Video Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:53
+msgid "Update Video Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:54
+msgid "Add New Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:55
+msgid "New Gallery Name"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:56
+msgid "Gallery"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:74
+msgid "Video URL"
+msgstr ""
+
+#: lis_lvg_plugin_basic.php:171
+msgid "Wrong URL"
+msgstr ""
+
+#: lis_lvg_short.php:104 lis_lvg_short.php:123
+msgid "Load More"
+msgstr ""
+
+#: lis_lvg_short.php:122
+msgid "Loading"
+msgstr ""
+
+#: lis_video_gallery.php:45
+msgid "Video Gallery Plugin Settings Page"
+msgstr ""
+
+#: lis_video_gallery.php:54 lis_video_gallery.php:61
+msgid "Internal problems occured!"
+msgstr ""
+
+#: lis_video_gallery.php:119
+msgid "Popup box:"
+msgstr ""
+
+#: lis_video_gallery.php:120
+msgid "Choose any option to set popup box method"
+msgstr ""
+
+#: lis_video_gallery.php:126
+msgid "None"
+msgstr ""
+
+#: lis_video_gallery.php:135
+msgid "Load From:"
+msgstr ""
+
+#: lis_video_gallery.php:136
+msgid "Choose any option to set loading source of box script"
+msgstr ""
+
+#: lis_video_gallery.php:142
+msgid "Do not load"
+msgstr ""
+
+#: lis_video_gallery.php:143
+msgid "Built in Plugin"
+msgstr ""
+
+#: lis_video_gallery.php:150
+msgid "Save"
+msgstr ""
+
+#: lis_video_gallery.php:158
+msgid "Usage"
+msgstr ""
+
+#: lis_video_gallery.php:160
+msgid "Plugin already created new video type. It located below simple posts."
+msgstr ""
+
+#: lis_video_gallery.php:161
+msgid ""
+"Add titles and url to new video. No need in thumbnail. Plugin supports "
+"youtube and vimeo. Url for paste should be like:"
+msgstr ""
+
+#: lis_video_gallery.php:164
+msgid "Plugin provides shortcode to output gallery in any page."
+msgstr ""
+
+#: lis_video_gallery.php:167
+msgid "Options"
+msgstr ""
+
+#: lis_video_gallery.php:171
+msgid "default value. Enable ajax button."
+msgstr ""
+
+#: lis_video_gallery.php:172
+msgid "disable ajax button."
+msgstr ""
+
+#: lis_video_gallery.php:176
+msgid "slug name of gallery."
+msgstr ""
+
+#: lis_video_gallery.php:180
+msgid "number of videos to display. Default is 12."
+msgstr ""
+
+#. Name of the plugin
+msgid "Lis Video Gallery"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Plugin provides easy way to make video gallery using videos hosted on "
+"YouTube or Vimeo."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://lis.im/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Lis"
+msgstr ""
